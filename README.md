@@ -2,6 +2,8 @@
 
 Generate a monthly archive much like MovableType does.
 
+## 注意，这个插件在 jekyll-1.4.2 中可能会出错，在 jekyll-1.2.0 中没有错误。
+
 This code is based on following hacks:
 
 - https://gist.github.com/ilkka/707909
